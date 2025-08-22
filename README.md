@@ -16,6 +16,5 @@ It allows the user to view, search, add, restock, and evaluate stock items store
 - File I/O for reading and updating inventory
 - Data validation, error handling, and friendly user prompts
 - Reusable, modular functions for each task
-
 #### Usage
 Run the program and use the menu options to manage the inventory.
