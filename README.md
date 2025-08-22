@@ -1,4 +1,3 @@
-"""
 ## Inventory Manager
 
 This program provides a simple yet functional inventory management system for tracking shoes. 
